@@ -1,0 +1,23 @@
+
+nav{
+
+ line-height: 100px;
+position: absolute;
+
+background-color: black;
+width: 100%;
+}
+nav a{
+ text-decoration: none;
+ font-family: sans-serif;
+ letter-spacing: 4px;
+ font-size: 20px;
+ margin: 0 10px;
+ color: #fff;
+
+}
+nav a:hover
+{border:1px red solid;
+	padding: 20px;
+	background-color: orange;
+}
